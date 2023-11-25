@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on different projects and portfolios
-- 📫 How to reach me -Email me
+- 📫 How to reach me -Email me at novera91@gmail.com
 
 <!---
 Novera-123/Novera-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

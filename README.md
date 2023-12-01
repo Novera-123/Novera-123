@@ -43,6 +43,7 @@ Adaptability skills
 **--Certifictions--**
 - Introduction to microsoft excel | Coursera | 2023
 - Introduction to SQL | Datacamp | 2023
+- Intermediate SQL | Datacamp | 2023
 - Introduction to Python | Datacamp | 2023
 - Basic SQL | Hacker Rank | 2023
 

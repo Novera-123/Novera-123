@@ -40,7 +40,7 @@ engaging content for an E-News company.
 Good English communication skills | Strong problem-solving skills | Team worker | Grasp concepts quickly |Good 
 Adaptability skills
 
-**--Certifictions--**
+**--Certifications--**
 - Introduction to microsoft excel | Coursera | 2023
 - Introduction to SQL | Datacamp | 2023
 - Intermediate SQL | Datacamp | 2023

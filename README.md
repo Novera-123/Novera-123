@@ -1,9 +1,10 @@
 **--Introduction--**
 
 - 👋 Hi, I’m @Novera
-- 👀 I’m interested in data analysis , python, SQL , statistical Analysis
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in data analysis , python, SQL , statistical Analysis , Machine Learning, Computer Vision
+- 🌱 I’m currently learning Natural Language Processing and Deployment
 - 💞️ I’m looking to collaborate on different projects and portfolios
+- Currently working as a ICT teacher at a Primary School as well as a TA at atomcamp
 - 📫 How to reach me -Email me at novera91@gmail.com
 
 
@@ -34,6 +35,14 @@ engaging content for an E-News company.
 • Collaborated with a team of educators to foster a positive and innovative school culture.
 
 • Implemented an efficient system for teachers to send E-reports.
+
+-- Teachers Assistant - DataScience Bootcamp |  Feb 2024 - Till date --
+- Handling, documenting, and responding to inquiries to enhance an interactive online experience.
+- Monitoring progress and collaborating with students from various backgrounds to support and improve their development.
+  
+-- Freelancer Upwork | December 2023 – till date
+- engaged in an ongoing project involving the creation of Excel content for webpages.
+   
 
 **--Skills--**
 

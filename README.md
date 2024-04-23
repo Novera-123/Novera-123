@@ -1,10 +1,10 @@
 **--Introduction--**
 
 - 👋 Hi, I’m @Novera
-- 👀 I’m interested in data analysis , python, SQL , statistical Analysis , Machine Learning, Computer Vision
+- 👀 I’m interested in data analysis , python, SQL , statistical Analysis , Machine Learning, Computer Vision, NLP, FASTAPI, DOCKER.
 - 🌱 I’m currently learning Natural Language Processing and Deployment
 - 💞️ I’m looking to collaborate on different projects and portfolios
-- Currently working as a ICT teacher at a Primary School as well as a TA at atomcamp
+- Data Scientist in making to solve your problems
 - 📫 How to reach me -Email me at novera91@gmail.com
 
 

@@ -50,11 +50,14 @@ Good English communication skills | Strong problem-solving skills | Team worker 
 Adaptability skills
 
 **--Certifications--**
+- Data Science and AI | atomcamp | 2024
+- Data Analysis | atomcamp | 2023
 - Introduction to microsoft excel | Coursera | 2023
 - Introduction to SQL | Datacamp | 2023
 - Intermediate SQL | Datacamp | 2023
 - Introduction to Python | Datacamp | 2023
 - Basic SQL | Hacker Rank | 2023
+  
 
 
 <!---

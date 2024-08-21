@@ -1,7 +1,7 @@
 **--Introduction--**
 
 - 👋 Hi, I’m @Novera
-- 👀 I’m interested in data analysis , python, SQL , statistical Analysis , Machine Learning, Computer Vision, NLP, FASTAPI, DOCKER.
+- 👀 I’m interested in data analysis , Power BI, python, SQL , statistical Analysis , Machine Learning, Computer Vision, NLP.
 - 🌱 I’m currently learning Natural Language Processing and Deployment
 - 💞️ I’m looking to collaborate on different projects and portfolios
 - Data Scientist in making to solve your problems
